@@ -7,7 +7,10 @@ package com.xdl;
 public class Strudent {
 
     private int id;
+
     private String name;
+
+    private int age
 
     public int getId() {
         return id;
